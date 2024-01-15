@@ -1,0 +1,215 @@
+<?xml version="1.0"?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+
+
+
+  <channel>
+    <title>Weather Conditions : Binawidya, Pekanbaru, Indonesia</title>
+    <link></link>
+    <description>Current conditions, and daily, monthly, and yearly summaries</description>
+    <language>"en"</language>
+    <pubDate>Thu, 05 Oct 2023 15:17:00 WIB</pubDate>
+
+    <lastBuildDate>Thu, 05 Oct 2023 15:17:00 WIB</lastBuildDate>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <generator>weewx 4.10.2</generator>
+    <ttl>1.0 minute</ttl>
+
+    <item>
+      <title>Weather Conditions at 10/05/2023 03:17:00 PM</title>
+      <link></link>
+      <description>
+        Outside Temperature: 32.0&#176;C;
+        Inside Temperature: 24.9&#176;C;
+        Barometer: 1012.0 mbar;
+        Wind: 0.6 m/s from 129&#176;;
+        Rain: 0.0 mm;
+        Rain Rate: 0.0 mm/h;
+        Wind Chill: 32.0&#176;C;
+        Heat Index: 39.7&#176;C;
+        Dew Point: 25.3&#176;C;
+        Outside Humidity: 68%;
+        Inside Humidity: 56%;
+      </description>
+      <pubDate>Thu, 05 Oct 2023 15:17:00 WIB</pubDate>
+      <geo:lat>101.41047137</geo:lat>
+      <geo:long>0.4939246</geo:long>
+      <content:encoded><![CDATA[
+      <p>
+      Time: 10/05/2023 03:17:00 PM<br/>
+        Outside Temperature: 32.0&#176;C<br/>
+        Inside Temperature: 24.9&#176;C<br/>
+        Barometer: 1012.0 mbar<br/>
+        Wind: 0.6 m/s from 129&#176;;
+        Rain: 0.0 mm<br/>
+        Rain Rate: 0.0 mm/h<br/>
+        Wind Chill: 32.0&#176;C<br/>
+        Heat Index: 39.7&#176;C<br/>
+        Dew Point: 25.3&#176;C<br/>
+        Outside Humidity: 68%<br/>
+        Inside Humidity: 56%<br/>
+      </p>
+      ]]></content:encoded>
+    </item>
+
+    <item>
+      <title>Daily summary as of 10/05/2023 03:17:00 PM</title>
+      <link></link>
+      <description>
+        Min Outside Temperature: 28.2&#176;C at 10:11:00 AM;
+        Max Outside Temperature: 33.8&#176;C at 12:30:38 PM;
+        Min Inside Temperature: 24.6&#176;C at 10:02:11 AM;
+        Max Inside Temperature: 26.0&#176;C at 01:02:14 PM;
+        Min Barometer: 1011.8 mbar at 02:50:50 PM;
+        Max Barometer: 1017.2 mbar at 10:08:55 AM;
+        Max Wind: 5.1 m/s from 185&#176; at 01:06:54 PM;
+        Rain: 0.0 mm;
+        Max Rain Rate: 0.0 mm/h;
+        Min Wind Chill: 28.2&#176;C at 10:11:00 AM;
+        Max Wind Chill: 33.8&#176;C at 12:30:38 PM;
+        Min Heat Index: 32.5&#176;C at 10:11:00 AM;
+        Max Heat Index: 42.0&#176;C at 12:30:38 PM;
+        Min Dew Point: 24.0&#176;C at 11:50:19 AM;
+        Max Dew Point: 25.9&#176;C at 02:56:31 PM;
+        Min Outside Humidity: 59% at 12:30:07 PM;
+        Max Outside Humidity: 81% at 10:10:28 AM;
+        Min Inside Humidity: 55% at 03:00:08 PM;
+        Max Inside Humidity: 64% at 01:03:48 PM;
+      </description>
+      <pubDate>Thu, 05 Oct 2023 15:17:00 WIB</pubDate>
+      <geo:lat>101.41047137</geo:lat>
+      <geo:long>0.4939246</geo:long>
+      <content:encoded><![CDATA[
+      <p>
+      Daily summary as of 05 Oct 2023<br/>
+        Min Outside Temperature: 28.2&#176;C at 10:11:00 AM<br/>
+        Max Outside Temperature: 33.8&#176;C at 12:30:38 PM<br/>
+        Min Inside Temperature: 24.6&#176;C at 10:02:11 AM<br/>
+        Max Inside Temperature: 26.0&#176;C at 01:02:14 PM<br/>
+        Min Barometer: 1011.8 mbar at 02:50:50 PM<br/>
+        Max Barometer: 1017.2 mbar at 10:08:55 AM<br/>
+        Max Wind: 5.1 m/s from 185&#176; at 01:06:54 PM<br/>
+        Rain: 0.0 mm<br/>
+        Max Rain Rate: 0.0 mm/h<br/>
+        Min Wind Chill: 28.2&#176;C at 10:11:00 AM<br/>
+        Max Wind Chill: 33.8&#176;C at 12:30:38 PM<br/>
+        Min Heat Index: 32.5&#176;C at 10:11:00 AM<br/>
+        Max Heat Index: 42.0&#176;C at 12:30:38 PM<br/>
+        Min Dew Point: 24.0&#176;C at 11:50:19 AM<br/>
+        Max Dew Point: 25.9&#176;C at 02:56:31 PM<br/>
+        Min Outside Humidity: 59% at 12:30:07 PM<br/>
+        Max Outside Humidity: 81% at 10:10:28 AM<br/>
+        Min Inside Humidity: 55% at 03:00:08 PM<br/>
+        Max Inside Humidity: 64% at 01:03:48 PM<br/>
+      </p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Monthly summary as of 10/05/2023 03:17:00 PM</title>
+      <link></link>
+      <description>
+        Min Outside Temperature: -0.2&#176;C at 10/02/2023 11:39:59 PM;
+        Max Outside Temperature: 33.8&#176;C at 10/05/2023 12:30:38 PM;
+        Min Inside Temperature: 17.2&#176;C at 10/02/2023 11:13:09 PM;
+        Max Inside Temperature: 26.0&#176;C at 10/05/2023 01:02:14 PM;
+        Min Barometer: 1011.8 mbar at 10/05/2023 02:50:50 PM;
+        Max Barometer: 1053.2 mbar at 10/02/2023 11:13:09 PM;
+        Max Wind: 5.1 m/s from 185&#176; at 10/05/2023 01:06:54 PM;
+        Rain: 0.0 mm;
+        Max Rain Rate: 0.0 mm/h;
+        Min Wind Chill: -0.2&#176;C at 10/02/2023 11:39:59 PM;
+        Max Wind Chill: 33.8&#176;C at 10/05/2023 12:30:38 PM;
+        Min Heat Index: -0.2&#176;C at 10/02/2023 11:39:59 PM;
+        Max Heat Index: 42.0&#176;C at 10/05/2023 12:30:38 PM;
+        Min Dew Point: -3.2&#176;C at 10/02/2023 11:39:59 PM;
+        Max Dew Point: 25.9&#176;C at 10/05/2023 02:56:31 PM;
+        Min Outside Humidity: 59% at 10/05/2023 12:30:07 PM;
+        Max Outside Humidity: 81% at 10/05/2023 10:10:28 AM;
+        Min Inside Humidity: 30% at 10/02/2023 11:39:59 PM;
+        Max Inside Humidity: 71% at 10/03/2023 05:18:00 PM;
+      </description>
+      <pubDate>Thu, 05 Oct 2023 15:17:00 WIB</pubDate>
+      <geo:lat>101.41047137</geo:lat>
+      <geo:long>0.4939246</geo:long>
+      <content:encoded><![CDATA[
+      <p>
+      Monthly summary as of 01 Oct 2023<br/>
+        Min Outside Temperature: -0.2&#176;C at 10/02/2023 11:39:59 PM<br/>
+        Max Outside Temperature: 33.8&#176;C at 10/05/2023 12:30:38 PM<br/>
+        Min Inside Temperature: 17.2&#176;C at 10/02/2023 11:13:09 PM<br/>
+        Max Inside Temperature: 26.0&#176;C at 10/05/2023 01:02:14 PM<br/>
+        Min Barometer: 1011.8 mbar at 10/05/2023 02:50:50 PM<br/>
+        Max Barometer: 1053.2 mbar at 10/02/2023 11:13:09 PM<br/>
+        Max Wind: 5.1 m/s from 185&#176; at 10/05/2023 01:06:54 PM<br/>
+        Rain: 0.0 mm<br/>
+        Max Rain Rate: 0.0 mm/h<br/>
+        Min Wind Chill: -0.2&#176;C at 10/02/2023 11:39:59 PM<br/>
+        Max Wind Chill: 33.8&#176;C at 10/05/2023 12:30:38 PM<br/>
+        Min Heat Index: -0.2&#176;C at 10/02/2023 11:39:59 PM<br/>
+        Max Heat Index: 42.0&#176;C at 10/05/2023 12:30:38 PM<br/>
+        Min Dew Point: -3.2&#176;C at 10/02/2023 11:39:59 PM<br/>
+        Max Dew Point: 25.9&#176;C at 10/05/2023 02:56:31 PM<br/>
+        Min Outside Humidity: 59% at 10/05/2023 12:30:07 PM<br/>
+        Max Outside Humidity: 81% at 10/05/2023 10:10:28 AM<br/>
+        Min Inside Humidity: 30% at 10/02/2023 11:39:59 PM<br/>
+        Max Inside Humidity: 71% at 10/03/2023 05:18:00 PM<br/>
+      </p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Yearly summary as of 10/05/2023 03:17:00 PM</title>
+      <link></link>
+      <description>
+        Min Outside Temperature: -0.2&#176;C at 10/02/2023 11:39:59 PM;
+        Max Outside Temperature: 33.8&#176;C at 10/05/2023 12:30:38 PM;
+        Min Inside Temperature: 17.2&#176;C at 10/02/2023 11:13:09 PM;
+        Max Inside Temperature: 26.0&#176;C at 10/05/2023 01:02:14 PM;
+        Min Barometer: 1011.8 mbar at 10/05/2023 02:50:50 PM;
+        Max Barometer: 1053.2 mbar at 10/02/2023 11:13:09 PM;
+        Max Wind: 5.1 m/s from 185&#176; at 10/05/2023 01:06:54 PM;
+        Rain: 0.0 mm;
+        Max Rain Rate: 0.0 mm/h;
+        Min Wind Chill: -0.2&#176;C at 10/02/2023 11:39:59 PM;
+        Max Wind Chill: 33.8&#176;C at 10/05/2023 12:30:38 PM;
+        Min Heat Index: -0.2&#176;C at 10/02/2023 11:39:59 PM;
+        Max Heat Index: 42.0&#176;C at 10/05/2023 12:30:38 PM;
+        Min Dew Point: -3.2&#176;C at 10/02/2023 11:39:59 PM;
+        Max Dew Point: 25.9&#176;C at 10/05/2023 02:56:31 PM;
+        Min Outside Humidity: 59% at 10/05/2023 12:30:07 PM;
+        Max Outside Humidity: 81% at 10/05/2023 10:10:28 AM;
+        Min Inside Humidity: 30% at 10/02/2023 11:39:59 PM;
+        Max Inside Humidity: 71% at 10/03/2023 05:18:00 PM;
+      </description>
+      <pubDate>Thu, 05 Oct 2023 15:17:00 WIB</pubDate>
+      <geo:lat>101.41047137</geo:lat>
+      <geo:long>0.4939246</geo:long>
+      <content:encoded><![CDATA[
+      <p>
+      Yearly summary as of 01 Jan 2023<br/>
+        Min Outside Temperature: -0.2&#176;C at 10/02/2023 11:39:59 PM<br/>
+        Max Outside Temperature: 33.8&#176;C at 10/05/2023 12:30:38 PM<br/>
+        Min Inside Temperature: 17.2&#176;C at 10/02/2023 11:13:09 PM<br/>
+        Max Inside Temperature: 26.0&#176;C at 10/05/2023 01:02:14 PM<br/>
+        Min Barometer: 1011.8 mbar at 10/05/2023 02:50:50 PM<br/>
+        Max Barometer: 1053.2 mbar at 10/02/2023 11:13:09 PM<br/>
+        Max Wind: 5.1 m/s from 185&#176; at 10/05/2023 01:06:54 PM<br/>
+        Rain: 0.0 mm<br/>
+        Max Rain Rate: 0.0 mm/h<br/>
+        Min Wind Chill: -0.2&#176;C at 10/02/2023 11:39:59 PM<br/>
+        Max Wind Chill: 33.8&#176;C at 10/05/2023 12:30:38 PM<br/>
+        Min Heat Index: -0.2&#176;C at 10/02/2023 11:39:59 PM<br/>
+        Max Heat Index: 42.0&#176;C at 10/05/2023 12:30:38 PM<br/>
+        Min Dew Point: -3.2&#176;C at 10/02/2023 11:39:59 PM<br/>
+        Max Dew Point: 25.9&#176;C at 10/05/2023 02:56:31 PM<br/>
+        Min Outside Humidity: 59% at 10/05/2023 12:30:07 PM<br/>
+        Max Outside Humidity: 81% at 10/05/2023 10:10:28 AM<br/>
+        Min Inside Humidity: 30% at 10/02/2023 11:39:59 PM<br/>
+        Max Inside Humidity: 71% at 10/03/2023 05:18:00 PM<br/>
+      </p>
+      ]]></content:encoded>
+    </item>
+
+  </channel>
+</rss>

@@ -1,0 +1,286 @@
+{
+    "belchertown_version": "1.3.1",
+    "generated_timestamp": "10/06/2023 18:16:36",
+    "colors": "#7cb5ec, #b2df8a, #f7a35c, #8c6bb1, #dd3497, #e4d354, #268bd2, #f45b5b, #6a3d9a, #33a02c",
+    "chartgroup_title": "This Month",
+    "tooltip_date_format": "dddd LL",
+    "credits": "highcharts_default",
+    "credits_url": "highcharts_default",
+    "credits_position": "highcharts_default",
+    "chart1": {
+        "series": {
+            "outTemp": {
+                "obsType": "outTemp",
+                "yAxis_label": "Max Temperature (\u00b0C)",
+                "polar": "false",
+                "zIndex": 1.0,
+                "name": "Max Temperature",
+                "color": "red",
+                "rounding": 1.0,
+                "data": [
+                    [
+                        1696288560000.0,
+                        30.7
+                    ],
+                    [
+                        1696461360000.0,
+                        33.8
+                    ],
+                    [
+                        1696547760000.0,
+                        35.1
+                    ]
+                ]
+            },
+            "outTemp_min": {
+                "obsType": "outTemp_min",
+                "yAxis_label": "Min Temperature (\u00b0C)",
+                "polar": "false",
+                "name": "Min Temperature",
+                "observation_type": "outTemp",
+                "aggregate_type": "min",
+                "color": "#7cb5ec",
+                "rounding": 1.0,
+                "data": [
+                    [
+                        1696288560000.0,
+                        -0.2
+                    ],
+                    [
+                        1696461360000.0,
+                        27.5
+                    ],
+                    [
+                        1696547760000.0,
+                        27.0
+                    ]
+                ]
+            }
+        },
+        "options": {
+            "renderTo": "chart1",
+            "chart_group": "month",
+            "title": "Temperature",
+            "subtitle": "",
+            "type": "spline",
+            "gapsize": 86400000,
+            "connectNulls": "false",
+            "xAxis_categories": [],
+            "plot_tooltip_date_format": "dddd LL",
+            "css_width": "",
+            "css_height": "",
+            "legend": "true",
+            "exporting": "false",
+            "yAxis_label": "Min Temperature (\u00b0C)",
+            "css_class": null
+        }
+    },
+    "chart2": {
+        "series": {
+            "windDir": {
+                "obsType": "windDir",
+                "yAxis_label": "Wind Direction (\u00b0)",
+                "polar": "false",
+                "zIndex": 1.0,
+                "yAxis": 1.0,
+                "yAxis_max": 360.0,
+                "lineWidth": 0.0,
+                "aggregate_type": "avg",
+                "marker": {
+                    "enabled": "true"
+                },
+                "states": {
+                    "hover": {
+                        "lineWidthPlus": 0.0
+                    }
+                },
+                "name": "Wind Direction",
+                "yAxis_min": 0.0,
+                "rounding": 0.0,
+                "data": [
+                    [
+                        1696288560000.0,
+                        156.0
+                    ],
+                    [
+                        1696461360000.0,
+                        198.0
+                    ],
+                    [
+                        1696547760000.0,
+                        166.0
+                    ]
+                ]
+            },
+            "windGust": {
+                "obsType": "windGust",
+                "yAxis_label": "Gust Speed (m/s)",
+                "polar": "false",
+                "name": "Gust Speed",
+                "yAxis_min": 0.0,
+                "rounding": 1.0,
+                "data": [
+                    [
+                        1696288560000.0,
+                        4.1
+                    ],
+                    [
+                        1696461360000.0,
+                        5.1
+                    ],
+                    [
+                        1696547760000.0,
+                        3.1
+                    ]
+                ]
+            },
+            "windSpeed": {
+                "obsType": "windSpeed",
+                "yAxis_label": "Wind Speed (m/s)",
+                "polar": "false",
+                "zIndex": 2.0,
+                "name": "Wind Speed",
+                "yAxis_min": 0.0,
+                "rounding": 1.0,
+                "data": [
+                    [
+                        1696288560000.0,
+                        2.3
+                    ],
+                    [
+                        1696461360000.0,
+                        2.4
+                    ],
+                    [
+                        1696547760000.0,
+                        1.7
+                    ]
+                ]
+            }
+        },
+        "options": {
+            "renderTo": "chart2",
+            "chart_group": "month",
+            "title": "Wind Speed and Direction",
+            "subtitle": "",
+            "type": "spline",
+            "gapsize": 86400000,
+            "connectNulls": "false",
+            "xAxis_categories": [],
+            "plot_tooltip_date_format": "dddd LL",
+            "css_width": "",
+            "css_height": "",
+            "legend": "true",
+            "exporting": "false",
+            "yAxis_label": "Wind Speed (m/s)",
+            "css_class": null
+        }
+    },
+    "chart3": {
+        "series": {
+            "rainRate": {
+                "obsType": "rainRate",
+                "yAxis_label": "Rain Rate (mm/hr)",
+                "polar": "false",
+                "yAxis": 1.0,
+                "name": "Rain Rate",
+                "rounding": 1.0,
+                "data": [
+                    [
+                        1696288560000.0,
+                        0.0
+                    ],
+                    [
+                        1696461360000.0,
+                        0.0
+                    ],
+                    [
+                        1696547760000.0,
+                        0.0
+                    ]
+                ]
+            },
+            "rainTotal": {
+                "obsType": "rainTotal",
+                "yAxis_label": "Rain Total (mm)",
+                "polar": "false",
+                "name": "Rain Total",
+                "rounding": 1.0,
+                "data": [
+                    [
+                        1696288560000.0,
+                        0.0
+                    ],
+                    [
+                        1696461360000.0,
+                        0.0
+                    ],
+                    [
+                        1696547760000.0,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        "options": {
+            "renderTo": "chart3",
+            "chart_group": "month",
+            "title": "Rain",
+            "subtitle": "",
+            "type": "line",
+            "gapsize": 86400000,
+            "connectNulls": "false",
+            "xAxis_categories": [],
+            "plot_tooltip_date_format": "dddd LL",
+            "css_width": "",
+            "css_height": "",
+            "legend": "true",
+            "exporting": "false",
+            "yAxis_label": "Rain Total (mm)",
+            "css_class": null
+        }
+    },
+    "chart4": {
+        "series": {
+            "barometer": {
+                "obsType": "barometer",
+                "yAxis_label": "Barometer (mbar)",
+                "polar": "false",
+                "color": "#BECC00",
+                "name": "Barometer",
+                "rounding": 1.0,
+                "data": [
+                    [
+                        1696288560000.0,
+                        1017.3
+                    ],
+                    [
+                        1696461360000.0,
+                        1013.7
+                    ],
+                    [
+                        1696547760000.0,
+                        1013.2
+                    ]
+                ]
+            }
+        },
+        "options": {
+            "renderTo": "chart4",
+            "chart_group": "month",
+            "title": "Barometer",
+            "subtitle": "",
+            "type": "spline",
+            "gapsize": 86400000,
+            "connectNulls": "false",
+            "xAxis_categories": [],
+            "plot_tooltip_date_format": "dddd LL",
+            "css_width": "",
+            "css_height": "",
+            "legend": "true",
+            "exporting": "false",
+            "yAxis_label": "Barometer (mbar)",
+            "css_class": null
+        }
+    }
+}

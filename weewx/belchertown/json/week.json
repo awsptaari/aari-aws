@@ -1,0 +1,486 @@
+{
+    "belchertown_version": "1.3.1",
+    "generated_timestamp": "10/03/2023 09:17:31",
+    "colors": "#7cb5ec, #b2df8a, #f7a35c, #8c6bb1, #dd3497, #e4d354, #268bd2, #f45b5b, #6a3d9a, #33a02c",
+    "chartgroup_title": "This Week",
+    "tooltip_date_format": "LLLL",
+    "credits": "highcharts_default",
+    "credits_url": "highcharts_default",
+    "credits_position": "highcharts_default",
+    "chart1": {
+        "series": {
+            "outTemp": {
+                "obsType": "outTemp",
+                "yAxis_label": "Outside Temperature (\u00b0C)",
+                "polar": "false",
+                "zIndex": 1.0,
+                "name": "Outside Temperature",
+                "rounding": 1.0,
+                "data": [
+                    [
+                        1696259820000.0,
+                        0.4
+                    ],
+                    [
+                        1696263420000.0,
+                        0.3
+                    ],
+                    [
+                        1696306620000.0,
+                        30.5
+                    ],
+                    [
+                        1696310220000.0,
+                        30.7
+                    ],
+                    [
+                        1696313820000.0,
+                        30.7
+                    ],
+                    [
+                        1696317420000.0,
+                        30.1
+                    ],
+                    [
+                        1696321020000.0,
+                        30.2
+                    ]
+                ]
+            },
+            "windchill": {
+                "obsType": "windchill",
+                "yAxis_label": "Wind Chill (\u00b0C)",
+                "polar": "false",
+                "name": "Wind Chill",
+                "rounding": 1.0,
+                "data": [
+                    [
+                        1696259820000.0,
+                        0.4
+                    ],
+                    [
+                        1696263420000.0,
+                        0.3
+                    ],
+                    [
+                        1696306620000.0,
+                        30.5
+                    ],
+                    [
+                        1696310220000.0,
+                        30.7
+                    ],
+                    [
+                        1696313820000.0,
+                        30.7
+                    ],
+                    [
+                        1696317420000.0,
+                        30.1
+                    ],
+                    [
+                        1696321020000.0,
+                        30.2
+                    ]
+                ]
+            },
+            "heatindex": {
+                "obsType": "heatindex",
+                "yAxis_label": "Heat Index (\u00b0C)",
+                "polar": "false",
+                "color": "#f7a35c",
+                "name": "Heat Index",
+                "rounding": 1.0,
+                "data": [
+                    [
+                        1696259820000.0,
+                        0.4
+                    ],
+                    [
+                        1696263420000.0,
+                        0.3
+                    ],
+                    [
+                        1696306620000.0,
+                        35.1
+                    ],
+                    [
+                        1696310220000.0,
+                        35.8
+                    ],
+                    [
+                        1696313820000.0,
+                        36.8
+                    ],
+                    [
+                        1696317420000.0,
+                        35.3
+                    ],
+                    [
+                        1696321020000.0,
+                        35.5
+                    ]
+                ]
+            },
+            "dewpoint": {
+                "obsType": "dewpoint",
+                "yAxis_label": "Dew Point (\u00b0C)",
+                "polar": "false",
+                "color": "purple",
+                "name": "Dew Point",
+                "rounding": 1.0,
+                "data": [
+                    [
+                        1696259820000.0,
+                        -2.7
+                    ],
+                    [
+                        1696263420000.0,
+                        -2.7
+                    ],
+                    [
+                        1696306620000.0,
+                        23.3
+                    ],
+                    [
+                        1696310220000.0,
+                        23.8
+                    ],
+                    [
+                        1696313820000.0,
+                        24.5
+                    ],
+                    [
+                        1696317420000.0,
+                        24.4
+                    ],
+                    [
+                        1696321020000.0,
+                        24.3
+                    ]
+                ]
+            }
+        },
+        "options": {
+            "renderTo": "chart1",
+            "chart_group": "week",
+            "title": "Temperature",
+            "subtitle": "",
+            "type": "line",
+            "gapsize": 3600000,
+            "connectNulls": "false",
+            "xAxis_categories": [],
+            "plot_tooltip_date_format": "LLLL",
+            "css_width": "",
+            "css_height": "",
+            "legend": "true",
+            "exporting": "false",
+            "yAxis_label": "Dew Point (\u00b0C)",
+            "css_class": null
+        }
+    },
+    "chart2": {
+        "series": {
+            "windDir": {
+                "obsType": "windDir",
+                "yAxis_label": "Wind Direction (\u00b0)",
+                "polar": "false",
+                "zIndex": 1.0,
+                "yAxis": 1.0,
+                "yAxis_max": 360.0,
+                "lineWidth": 0.0,
+                "aggregate_type": "avg",
+                "marker": {
+                    "enabled": "true"
+                },
+                "states": {
+                    "hover": {
+                        "lineWidthPlus": 0.0
+                    }
+                },
+                "name": "Wind Direction",
+                "yAxis_min": 0.0,
+                "rounding": 0.0,
+                "data": [
+                    [
+                        1696259820000.0,
+                        360.0
+                    ],
+                    [
+                        1696263420000.0,
+                        360.0
+                    ],
+                    [
+                        1696306620000.0,
+                        227.0
+                    ],
+                    [
+                        1696310220000.0,
+                        128.0
+                    ],
+                    [
+                        1696313820000.0,
+                        155.0
+                    ],
+                    [
+                        1696317420000.0,
+                        146.0
+                    ],
+                    [
+                        1696321020000.0,
+                        132.0
+                    ]
+                ]
+            },
+            "windGust": {
+                "obsType": "windGust",
+                "yAxis_label": "Gust Speed (m/s)",
+                "polar": "false",
+                "name": "Gust Speed",
+                "yAxis_min": 0.0,
+                "rounding": 1.0,
+                "data": [
+                    [
+                        1696259820000.0,
+                        0.0
+                    ],
+                    [
+                        1696263420000.0,
+                        0.0
+                    ],
+                    [
+                        1696306620000.0,
+                        1.5
+                    ],
+                    [
+                        1696310220000.0,
+                        2.6
+                    ],
+                    [
+                        1696313820000.0,
+                        3.6
+                    ],
+                    [
+                        1696317420000.0,
+                        3.6
+                    ],
+                    [
+                        1696321020000.0,
+                        4.1
+                    ]
+                ]
+            },
+            "windSpeed": {
+                "obsType": "windSpeed",
+                "yAxis_label": "Wind Speed (m/s)",
+                "polar": "false",
+                "zIndex": 2.0,
+                "name": "Wind Speed",
+                "yAxis_min": 0.0,
+                "rounding": 1.0,
+                "data": [
+                    [
+                        1696259820000.0,
+                        0.0
+                    ],
+                    [
+                        1696263420000.0,
+                        0.0
+                    ],
+                    [
+                        1696306620000.0,
+                        0.7
+                    ],
+                    [
+                        1696310220000.0,
+                        0.9
+                    ],
+                    [
+                        1696313820000.0,
+                        1.7
+                    ],
+                    [
+                        1696317420000.0,
+                        1.4
+                    ],
+                    [
+                        1696321020000.0,
+                        2.3
+                    ]
+                ]
+            }
+        },
+        "options": {
+            "renderTo": "chart2",
+            "chart_group": "week",
+            "title": "Wind Speed and Direction",
+            "subtitle": "",
+            "type": "line",
+            "gapsize": 3600000,
+            "connectNulls": "false",
+            "xAxis_categories": [],
+            "plot_tooltip_date_format": "LLLL",
+            "css_width": "",
+            "css_height": "",
+            "legend": "true",
+            "exporting": "false",
+            "yAxis_label": "Wind Speed (m/s)",
+            "css_class": null
+        }
+    },
+    "chart3": {
+        "series": {
+            "rainRate": {
+                "obsType": "rainRate",
+                "yAxis_label": "Rain Rate (mm/hr)",
+                "polar": "false",
+                "yAxis": 1.0,
+                "name": "Rain Rate",
+                "rounding": 1.0,
+                "data": [
+                    [
+                        1696259820000.0,
+                        0.0
+                    ],
+                    [
+                        1696263420000.0,
+                        0.0
+                    ],
+                    [
+                        1696306620000.0,
+                        0.0
+                    ],
+                    [
+                        1696310220000.0,
+                        0.0
+                    ],
+                    [
+                        1696313820000.0,
+                        0.0
+                    ],
+                    [
+                        1696317420000.0,
+                        0.0
+                    ],
+                    [
+                        1696321020000.0,
+                        0.0
+                    ]
+                ]
+            },
+            "rainTotal": {
+                "obsType": "rainTotal",
+                "yAxis_label": "Rain Total (mm)",
+                "polar": "false",
+                "name": "Rain Total",
+                "rounding": 1.0,
+                "data": [
+                    [
+                        1696259820000.0,
+                        0.0
+                    ],
+                    [
+                        1696263420000.0,
+                        0.0
+                    ],
+                    [
+                        1696306620000.0,
+                        0.0
+                    ],
+                    [
+                        1696310220000.0,
+                        0.0
+                    ],
+                    [
+                        1696313820000.0,
+                        0.0
+                    ],
+                    [
+                        1696317420000.0,
+                        0.0
+                    ],
+                    [
+                        1696321020000.0,
+                        0.0
+                    ]
+                ]
+            }
+        },
+        "options": {
+            "renderTo": "chart3",
+            "chart_group": "week",
+            "title": "Rain",
+            "subtitle": "",
+            "type": "line",
+            "gapsize": 3600000,
+            "connectNulls": "false",
+            "xAxis_categories": [],
+            "plot_tooltip_date_format": "LLLL",
+            "css_width": "",
+            "css_height": "",
+            "legend": "true",
+            "exporting": "false",
+            "yAxis_label": "Rain Total (mm)",
+            "css_class": null
+        }
+    },
+    "chart4": {
+        "series": {
+            "barometer": {
+                "obsType": "barometer",
+                "yAxis_label": "Barometer (mbar)",
+                "polar": "false",
+                "color": "#BECC00",
+                "name": "Barometer",
+                "rounding": 1.0,
+                "data": [
+                    [
+                        1696259820000.0,
+                        1053.2
+                    ],
+                    [
+                        1696263420000.0,
+                        1053.2
+                    ],
+                    [
+                        1696306620000.0,
+                        1017.1
+                    ],
+                    [
+                        1696310220000.0,
+                        1016.6
+                    ],
+                    [
+                        1696313820000.0,
+                        1015.4
+                    ],
+                    [
+                        1696317420000.0,
+                        1014.8
+                    ],
+                    [
+                        1696321020000.0,
+                        1014.4
+                    ]
+                ]
+            }
+        },
+        "options": {
+            "renderTo": "chart4",
+            "chart_group": "week",
+            "title": "Barometer",
+            "subtitle": "",
+            "type": "line",
+            "gapsize": 3600000,
+            "connectNulls": "false",
+            "xAxis_categories": [],
+            "plot_tooltip_date_format": "LLLL",
+            "css_width": "",
+            "css_height": "",
+            "legend": "true",
+            "exporting": "false",
+            "yAxis_label": "Barometer (mbar)",
+            "css_class": null
+        }
+    }
+}
